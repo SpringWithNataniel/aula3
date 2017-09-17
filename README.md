@@ -4,5 +4,4 @@
 * Criar uma conexão com o MongoDB
 * Spring Data Repositories
 * @Document
-* CRUD em 5 minutos
 
